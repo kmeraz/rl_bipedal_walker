@@ -1,0 +1,5 @@
+{
+  "env": "BipedalWalker-v3",
+  "evaluation_interval": 2,
+  "evaluation_num_episodes": 20
+}
